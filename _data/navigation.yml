@@ -39,10 +39,10 @@
   url: "/coding/"
   side: left
   dropdown:
-#   - title: "Header with Full-Width-Image"
-#     url: "/design/header-full-width-image/"
-#   - title: "Header with Image and Pattern"
-#     url: "/design/header-image-pattern/"
+  - title: "Learn through old-school video games"
+    url: "https://github.com/nicklalone/CIS---102---Getting-Started-with-Video-Game-Development"
+  - title: "Learn with Python and Bram Stoker's Dracula"
+    url: "https://github.com/nicklalone/IS-452-Fall2018"
 #   - title: "Header with image and color"
 #     url: "/design/header-image-color/"
 #   - title: "Header Only With Logo"
