@@ -13,9 +13,9 @@ widget1:
   image: widget-1-302x182.jpg
   text: 'Science and technology integration in Emergency Management is a nascent special interest group still defining itself. What sort of EM do you see in the future? With our blog, we highlight recent developments, opinions, and observations from academia and practice.'
 widget2:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
+  title: "Curious About Coding??"
+  url: 'https://www.youtube.com/watch?v=LST-LcReOoU&ab_channel=Sweeney732'
+  text: 'One aspect of the STI Sig is its focus on gathering tutorials, educational modules, and various kinds of instructional material for the technologically curious. Some of the "next gen" competencies for EM include some ability to code (e.g. Java, Javascript, Python). What we're focused on here is not making you an expert, but providing you with terminology and concepts that can help make learning about these things less stressful.'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Download Theme"
@@ -46,7 +46,7 @@ homepage: true
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
+    <iframe width="1280" height="720" src="https://www.youtube.com/watch?v=16gGZ3HdHNk" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
