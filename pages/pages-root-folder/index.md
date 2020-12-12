@@ -8,7 +8,7 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Blog & Portfolio"
+  title: "The STI SIG Blog"
   url: 'https://stisig.github.io/blog/'
   image: widget-1-302x182.jpg
   text: 'Science and technology integration in Emergency Management is a nascent special interest group still defining itself. What sort of EM do you see in the future? With our blog, we highlight recent developments, opinions, and observations from academia and practice.'
