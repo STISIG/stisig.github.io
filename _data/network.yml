@@ -1,14 +1,14 @@
-- menu_name: "Dankeschön"
+- menu_name: "Other Areas of Interest"
 
-- name: "Icons by Daniel Bruce"
-  url: "http://entypo.com/"
-  class: "network-entypo"
-  title: "Icons by Daniel Bruce"
+- name: "FEMA Higher Education Program"
+  url: "https://training.fema.gov/hiedu/"
+  class: "parent-org"
+  title: "FEMA Higher Education Program"
 
-- name: "Built on Foundation"
-  url: "http://foundation.zurb.com/"
-  class: "services-newsletter"
-  title: "Built on Foundation"
+- name: "IAEM Emerging Technology Committee"
+  url: "https://www.iaem.org/groups/us-caucuses/emerging-technology"
+  class: "parent-org"
+  title: "IAEM Emerging Technology Committee"
 
 - name: "Images by Unsplash"
   url: "http://unsplash.com/"
