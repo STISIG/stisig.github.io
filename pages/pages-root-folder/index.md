@@ -9,13 +9,13 @@ header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Blog & Portfolio"
-  url: 'https://stisig.github.io/blog/'
+  url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: widget-1-302x182.jpg
-  text: 'Science and technology integration in Emergency Management is a nascent special interest group still defining itself. What sort of EM do you see in the future? With our blog, we highlight recent developments, opinions, and observations from academia and practice.'
+  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
 widget2:
-  title: "Curious About Coding??"
-  url: 'https://stisig.github.io/coding/'
-  text: 'One aspect of the STI Sig is its focus on gathering tutorials, educational modules, and various kinds of instructional material for the technologically curious. Some of the next-gen competencies for EM include some ability to code (e.g. Java, Javascript, Python).'
+  title: "Why use this theme?"
+  url: 'http://phlow.github.io/feeling-responsive/info/'
+  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Download Theme"
@@ -33,8 +33,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/STISIG
-  text: Subscribe for monthly updates and news! ›
+  url: https://tinyletter.com/feeling-responsive
+  text: Inform me about new updates and features ›
   style: alert
 permalink: /index.html
 #
@@ -46,7 +46,7 @@ homepage: true
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/watch?v=16gGZ3HdHNk" frameborder="0" allowfullscreen></iframe>
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
