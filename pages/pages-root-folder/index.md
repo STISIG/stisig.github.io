@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "Curious About Coding??"
   url: 'https://www.youtube.com/watch?v=LST-LcReOoU&ab_channel=Sweeney732'
-  text: 'One aspect of the STI Sig is its focus on gathering tutorials, educational modules, and various kinds of instructional material for the technologically curious. Some of the "next gen" competencies for EM include some ability to code (e.g. Java, Javascript, Python). What we're focused on here is not making you an expert, but providing you with terminology and concepts that can help make learning about these things less stressful.'
+  text: 'One aspect of the STI Sig is its focus on gathering tutorials, educational modules, and various kinds of instructional material for the technologically curious. Some of the next-gen competencies for EM include some ability to code (e.g. Java, Javascript, Python). What we're focused on here is not making you an expert, but providing you with terminology and concepts that can help make learning about these things less stressful.'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Download Theme"
