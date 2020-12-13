@@ -2,7 +2,7 @@
 layout: page
 title: "Welcome to the STI SIG Web Portal"
 subheadline: "Github, Github Pages, and Integration"
-teaser: "Welcome to the start of the FEMA Higher Education webpage for the Science and Technology Integration special interest group!"
+teaser: "Welcome to the start of the FEMA Higher Education web page for the Science and Technology Integration special interest group!"
 categories:
     - admin
 tags:
@@ -13,6 +13,7 @@ header:
     title: Welcome!
     background-color: "#EFC94C;"
 #    pattern: pattern_concrete.jpg
+    thumb: /blog/1.jpg
     image_fullwidth: /blog/1.jpg
     caption: This is an image from Snohomish Count, WA's EOC in 2014.
     caption_url: https://snohomishcountywa.gov/180/Emergency-Management
