@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-subheadline: "Why another Jekyll Theme?"
+subheadline: "What does it mean to 'integrate' science, tech, and EM?"
 teaser: "The Science Technology Integration in EM Higher Education Special Interest Group (STI SIG) is an interdisciplinary SIG meant to foster technology use in the practice and pedagogy of emergency management."
 permalink: "/info/"
 header:
