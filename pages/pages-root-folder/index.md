@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "Curious about Coding?"
   url: 'https://stisig.github.io/coding/'
-  text: 'An important activity for this SIG is the pursuit of ways to teach how programming works. This includes ways for you to teach yourselves. At first, these will be rough, course notes from Dr. LaLone's past courses. However, over time these will become closer to how EM needs programming to work, and how that need can generate ways of learning. Click above for a brief introduction to this content.'
+  text: 'An important activity for this SIG is the pursuit of ways to teach how programming works. This includes ways for you to teach yourselves. At first, these will be rough, course notes from Dr. LaLone&#8217;s past courses. However, over time these will become closer to how EM needs programming to work, and how that need can generate ways of learning. Click above for a brief introduction to this content.'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "SIG Administration and Integration Philosophies"
