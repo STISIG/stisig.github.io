@@ -10,13 +10,15 @@ tags:
     - first
     - future
 header:
-    title: Welcome!
-    background-color: "#EFC94C;"
-#    pattern: pattern_concrete.jpg
+    title: Welcome!  
     thumb: /blog/1.jpg
     image_fullwidth: /blog/1.jpg
     caption: This is an image from Snohomish Count, WA's EOC in 2014.
     caption_url: https://snohomishcountywa.gov/180/Emergency-Management
+
+image: 
+    thumb: thumb: /blog/1.jpg
+    image_fullwidth: /blog/1.jpg
 ---
 <!--more-->
 
