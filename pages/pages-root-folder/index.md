@@ -11,7 +11,7 @@ widget1:
   title: "The STI SIG Blog"
   url: 'https://stisig.github.io/blog/'
   image: widget-1-302x182.jpg
-  text: 'Science and technology integration in Emergency Management is a nascent special interest group still defining itself. What sort of EM do you see in the future? With our blog, we highlight recent developments, opinions, and observations from academia and practice.'
+  text: 'Science and technology integration in Emergency Management is a nascent special interest group that is currently still defining its specific parameters. For example, what sort of EM do you see in the future? What sort of technology does that version of EM use? How do we actually get on a path that would allow us to be able to realize that version? There is so much to worry about, think about, find, discuss, examine, and test that no one group can do so. With that in mind, one major component of this SIG is to advocate, point toward, and demonstrate potential futures, future technologies, and to bridge academics who are developing technology with emergency management personnel who can deploy it. Our blog allows us to do just that by highlighting recent developments, opinions, and observations from academia and practice.'
 widget2:
   title: "Curious about Coding?"
   url: 'https://stisig.github.io/coding/'
