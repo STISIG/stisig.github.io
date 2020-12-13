@@ -6,12 +6,12 @@
 - name: YouTube
   url: https://www.youtube.com/channel/UCvr5GQKCqoAoZLwkyVmnZ7A
   class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+  title: "Video Tutorials, Thoughts, and Demos"
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: http://twitter.com/nick_lalone
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "Nick LaLone on Twitter"
 
 # - name: Mixcloud
 #   url: http://www.mixcloud.com/phlow/
