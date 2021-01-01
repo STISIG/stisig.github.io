@@ -16,6 +16,8 @@ image:
     caption: Image from a 2019 presentation at Halfway to the Future in Nottingham, UK
     caption_url: https://www.halfwaytothefuture.org/2019/
 ---
+*The following post is from the perspective of a single individual and does not directly reflect the views of the SIG as a whole.*
+
 As a new tenure track researcher in the information science realm, I am supposed to be pushing the bleeding edge of discovery, pushing technology further, and relentlessly seeking "progress." I find; however, that I am not concerned with pushing the edge insomuch as I am interested in broadening, strengthening, and better integrating technology into human cultures. Since my research domain is human-computer interaction specifically and emergency management (EM) generally, I am interested in how to undo, approach, or work in a domain marked not by its technical prowess, but by its ability to get things done when nothing works. It is a design space that many of my colleagues ignore (not usually on purpose) for a very specific reason.
 <!--more-->
 
