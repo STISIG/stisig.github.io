@@ -34,13 +34,13 @@ And if technology is not compatible with or able to enhance the resilience of a 
 
 The term, "technical literacy" or "computational literacy" or "data literacy" all refers to this belief that the ability to use, understand, evaluate, create, and apply things from technology is similar to that of writing and reading. However, the nature of this concept is slightly more complicated. Writing and reading is a skill that can be adapted for any situation. It allows us to enhance resilience because it fosters training, learning, calling for help, and other ways we use those things. We need literacy for other kinds of things, even computers. 
 
-Yet, if technology is not able to be used in this way (and yes, there are numerous examples of *unanticipated use* with *unanticipated* being the operative term) then how can we call to the concept of literacy as anything more than an area wherein a person can use a computer within a stable environment and understand what is happening within the device and before being shown what is on a screen.
+Yet, if technology is not able to be used in this way. Technology is created to support tasks and that task is codified according to the talent, understanding, and resources available to a design team. It is important to note that yes, there are numerous examples of *unanticipated use* with *unanticipated* being the operative term. Yet all of this is within the confines, affordances, and abilities of users (despite or in spite of the limits of the designers). With so many limitations that are predicated on so many interpretations of the task, the design, and intended use, can we call this literacy? Is a more appropriate term simply, "use a system well?" And more than that, how can we call to the concept of literacy as anything more than an act of use that takes place within a stable environment? We could call to an understanding of what is happening within a device, those actions taken by processors and memory before being shown what is on a screen but this is closer to understanding how a car works than literacy. It's nice but not necessary.
 
-For technology to be integrated with EM, we need to not only move away from the concept of literacy, but push back on the way that technology itself is created, meant to be used, sold, and designed. 
+And so in thinking about literacy, there are innumerable other concepts to cope with. Literacy is not a goal, it's a term for a massive shift in practice from both EM's perspective but also technology's perspective. For technology to be integrated with EM, we need to not only move away from the concept of literacy, but push back on the way that technology itself is created, meant to be used, sold, and designed. 
 
-From that perspective, there are a lot of questions to think about when considering "how" to integrate tech with EM. The most important of those is, "What would it even do?" 
+This post ends with a list of questions to think about when considering "how" to integrate tech with EM. The most important of those is, "What would it even do?" 
 
-Below is a collection of 24 questions that need to be answered as we strive to integrate tech with EM. Within answering each of these is an additional collection of difficult questions.
+Below is a collection of 24 questions that need to be answered as we strive to integrate tech with EM. Within answering each of these is an additional collection of difficult questions. This list is not exhaustive.
 
 ***Infrastructure***
 * What are the data needs of any given disaster?
@@ -74,6 +74,7 @@ Below is a collection of 24 questions that need to be answered as we strive to i
 * Would existing personnel need to be replaced with folx who have the training to deal with these things?
 * And if so, how do you compete with technology industry salary ranges that begin far outside any municipality's salary range?
 
+What other questions, barriers, or gates need to be confronted?
 
 ## Other Post Formats
 {: .t60 }
