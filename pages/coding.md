@@ -1,10 +1,10 @@
 ---
 layout: page
 subheadline: "Getting Started with Coding"
-title: "Style your Header!"
-teaser: "These are your options to style the header of each webpage individually. <em>Feeling Responsive</em> uses <a href='http://srobbin.com/jquery-plugins/backstretch/'>Backstretch by Scott Robin</a> to expand them from left to right. The width should be 1600 pixel or higher using a ratio like 16:9 or 21:9 or 2:1."
+title: "What is programming anyway?"
+teaser: "If you're thinking about learning how to write code, make programs, or to dig deeper into your computer, here are some resources! For those of you interested in video games, we have a self-contained taste of programming that will get you introduced to some general concepts. If you're more interested in data analysis, data cleaning, and data organization, there is a Python-oriented set of notes that can help get you started."
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: "/images/coding_header.png"
 permalink: "/coding/"
 ---
 <ul>
