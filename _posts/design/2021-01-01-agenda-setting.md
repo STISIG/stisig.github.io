@@ -3,7 +3,7 @@ layout: page
 sidebar: right
 subheadline: Speculative Post
 title:  "What is technology supposed to do for emergency management?"
-teaser: "What exactly is needed before we can approach the idea of integrating tech with existing Emergency Management practice? Is it simply training people how to use a computer?"
+teaser: "What exactly is needed before we can approach the idea of integrating tech with existing Emergency Management practice? Is it simply training people how to use more of a computer?"
 breadcrumb: true
 tags:
     - integration perspective tech-sector
@@ -30,6 +30,7 @@ It is no controversy to say that current technology (computers, mobile devices, 
 And if technology is not compatible with or able to enhance the resilience of a municipality, organization, building, or business, then how can we strive to create an EM that is integrated with technology? 
 
 ***Technical Literacy***
+
 The term, "technical literacy" or "computational literacy" or "data literacy" all refers to this belief that the ability to use, understand, evaluate, create, and apply things from technology is similar to that of writing and reading. However, the nature of this concept is slightly more complicated. Writing and reading is a skill that can be adapted for any situation. It allows us to enhance resilience because it fosters training, learning, calling for help, and other ways we use those things. We need literacy for other kinds of things, even computers. 
 
 Yet, if technology is not able to be used in this way (and yes, there are numerous examples of *unanticipated use* with *unanticipated* being the operative term) then how can we call to the concept of literacy as anything more than an area wherein a person can use a computer within a stable environment and understand what is happening within the device and before being shown what is on a screen.
