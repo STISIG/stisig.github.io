@@ -12,8 +12,8 @@ categories:
 image:
     thumb: gallery-example-2-thumb.jpg
     title: /blog/20210101_head.jpg
-    caption: Unsplash.com
-    caption_url: http://unsplash.com
+    caption: Image from a 2019 presentation at Halfway to the Future in Nottingham, UK
+    caption_url: https://www.halfwaytothefuture.org/2019/
 ---
 Way more than tech proficiency, really.
 
