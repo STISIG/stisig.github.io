@@ -11,7 +11,7 @@ categories:
     - speculative
 image:
     thumb: gallery-example-2-thumb.jpg
-    title: /blog/20210101-head.jpg
+    title: /blog/20210101_head.jpg
     caption: Unsplash.com
     caption_url: http://unsplash.com
 ---
