@@ -11,7 +11,6 @@ categories:
     - speculative
 image:
     homepage: /blog/20210101_home.jpg
-    thumb: gallery-example-2-thumb.jpg
     title: /blog/20210101_head.jpg
     caption: Image from a 2019 presentation at Halfway to the Future in Nottingham, UK
     caption_url: https://www.halfwaytothefuture.org/2019/
