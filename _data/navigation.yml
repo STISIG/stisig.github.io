@@ -54,13 +54,13 @@
 #   - title: "No Header but Image"
 #     url: "/design/no-header-but-image/"
 
-- title: Documentation
+- title: News and Administration
   url: "/documentation/"
   side: left
   dropdown:
-  - title: "Changelog"
+  - title: "News / Website Changes"
     url: "/changelog/"
-  - title: "Roadmap"
+  - title: "STISIG To Do List"
     url: "/roadmap/"
 
 # - title: Blog
