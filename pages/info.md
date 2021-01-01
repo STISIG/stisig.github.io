@@ -5,7 +5,7 @@ subheadline: "What does it mean to 'integrate' science, tech, and EM?"
 teaser: "The Science Technology Integration in EM Higher Education Special Interest Group (STI SIG) is an interdisciplinary SIG meant to foster technology use in the practice and pedagogy of emergency management."
 permalink: "/info/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "info_head.png"
 ---
 
 STI SIG seeks to provide assignments, tutorials, guidance, and philosophies on how to better connect technology use to emergency management. From software like WebEOC to the complex algorithms of machine learning, the demand for computer use in emergency management is increasing at an exponential rate. By focusing on integrating science and technology with existing emergency management praxis, the STI SIG can help educate emergency managers to use cutting edge computational techniques and teach them to others quickly and effectively. 
@@ -21,6 +21,7 @@ STI SIG seeks to provide assignments, tutorials, guidance, and philosophies on h
 The STI SIG is seeking existing resources to understand the current state of technology-oriented instruction in Emergency Management. We will convene on the every 1st Thursday to assemble resources and write content to promote the SIG.
 
 **Case Teaching and Learning SIG Lead**
+
 Nick LaLone, Co-Chair
 University of Nebraska at Omaha
 nlalone@unomaha.edu 
