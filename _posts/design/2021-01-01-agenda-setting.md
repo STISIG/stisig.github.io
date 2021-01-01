@@ -36,39 +36,41 @@ Yet, if technology is not able to be used in this way (and yes, there are numero
 
 For technology to be integrated with EM, we need to not only move away from the concept of literacy, but push back on the way that technology itself is created, meant to be used, sold, and designed. 
 
-From that perspective, there are a lot of questions to think about when considering "how" to integrate tech with EM. The most important of those is, "What would it even do?" Below is a collection of XX questions that should be answered as we strive to integrate tech with EM.
+From that perspective, there are a lot of questions to think about when considering "how" to integrate tech with EM. The most important of those is, "What would it even do?" 
+
+Below is a collection of 24 questions that need to be answered as we strive to integrate tech with EM. Within answering each of these is an additional collection of difficult questions.
 
 ***Infrastructure***
-What are the data needs of any given disaster?
-Do those data needs differ by type of disaster?
-How are those data needs influenced by the geography of the impacted area?
-Given those data needs, what is the pipeline needed to ensure the data's storage, accessibility, verifiability, processing, and analysis? 
-Within those needs, how does one ensure an adequate cycle of version control?
-Does version control need to consider platform (mobile, desktop, laptop, etc...) compatibility? 
-How should permissions be integrated within this pipeline?
+* What are the data needs of any given disaster?
+* Do those data needs differ by type of disaster?
+* How are those data needs influenced by the geography of the impacted area?
+* Given those data needs, what is the pipeline needed to ensure the data's storage, accessibility, verifiability, processing, and analysis? 
+* Within those needs, how does one ensure an adequate cycle of version control?
+* Does version control need to consider platform (mobile, desktop, laptop, etc...) compatibility? 
+* How should permissions be integrated within this pipeline?
 
 ***Verifiability, Provenance, and Protection of Data***
-Given the prevalence of misinformation, how does one integrate the security of information within existing ICS frameworks, not cybersecurity but its provenance?
-How does one protect data from being altered to fit political events within the effected area?
-How can this data be available for the crowd to process without sacrificing bandwidth?
-How can these data be constantly verified within an asymmetrical environment wherein different actors are engaged with the data at different times simultaneously but perhaps not all on the same version?
-How does one incorporate version control and the push/pull dynamic without causing dataset destroying conflicts?
+* Given the prevalence of misinformation, how does one integrate the security of information within existing ICS frameworks, not cybersecurity but its provenance?
+* How does one protect data from being altered to fit political events within the effected area?
+* How can this data be available for the crowd to process without sacrificing bandwidth?
+* How can these data be constantly verified within an asymmetrical environment wherein different actors are engaged with the data at different times simultaneously but perhaps not all on the same version?
+* How does one incorporate version control and the push/pull dynamic without causing dataset destroying conflicts?
 
 ***Base Operations***
+* Right now, nearly all of the EOC software packages are closed and private in terms of source control. How do you grow open source software that can accomodate this asymmetrical space? 
+* Within that movement, how do you handle current EOC software and licenses/fees that have been purchased already? 
+* How do you handle training for existing personnel should technology begin to be integrated. 
+* Most importantly, how can you ensure that the information coming from the data warehouse is valid and vetted properly?
+* With the above, how can you control for the impact of automated misinformation when personnel may be psychologically unable to ingest, verify, or cope with?
+* How can you tie everyday Incident Management and large-scale Emergency Management information systems together if they’re separated?
+* More importantly, how can you scale those systems to incorporate national information systems, journalist systems, allow crowdsourcing to access, and cope with crowd-based platforms and communities that have far more resources than any municipality can compete with? 
+* How can social media be incorporate in standard communication practices but also in standard sensemaking and situation awareness toolkits?
+* Can messaging apps from social media (e.g. Facebook Messenger, TikTok, Instagram, Twitter DMs) be incorporated into data gathering tools in an effort to broaden an ability to connect to those who may be in danger?
 
-How do you handle EOC software? -- At current, these are all closed source and private.
-
-Given the posts I often see here, how can you ensure that the information you’re seeing is valid and vetted properly within this automated space when it disagrees with the misinformation the person looking at it believes in with their personal feed and psychologically have no tools to disagree with?
-
-How can you tie Incident Management and Emergency Management information systems together if they’re separated where you are?
-
-How can you scale up, incorporate national information systems, journalist systems, crowdsourcing, and crowd-based platforms that have far more resources than you? 
-Social media EM platforms and data feeds. Can you tie in messaging apps for these platforms into your eco-system easily?
-
-How do you ensure you can keep what you might need secure?
-What would a future that is successful with computational techniques look like in terms of representation because I imagine well over half of existing personnel would need to be replaced with folx who have the training to deal with these things.
-
-And as of now, personnel who would work in positions with this much tech wouldn’t work in a low-paying sector like this.
+***Personnel***
+* What would a future that is successful with computational techniques look like in terms of representation?
+* Would existing personnel need to be replaced with folx who have the training to deal with these things?
+* And if so, how do you compete with technology industry salary ranges that begin far outside any municipality's salary range?
 
 
 ## Other Post Formats
