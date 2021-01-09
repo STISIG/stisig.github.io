@@ -18,15 +18,7 @@ image:
 As a new PhD student, I was introduced to the domain of <a href="https://tinyurl.com/crisisinformatics" target=_blank>Crisis Informatics</a> or the study of information communication technology use during disaster. As I learned more about the techniques and potential of this space, I found that much of the tension of computer science's future was contained within trying to make sense of posts on social media and other forms of internet-based communication. But there's so much more to do. 
 <!--more-->
 
-~~~
-show_meta: true
-~~~
 
-If you don't want to show metadata, it's simple again:
-
-~~~
-show_meta: false
-~~~
 
 
 ## Other Post Formats
