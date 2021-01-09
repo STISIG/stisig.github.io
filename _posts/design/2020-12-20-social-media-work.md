@@ -1,9 +1,9 @@
 ---
 layout: page
 sidebar: right
-subheadline: Templates
+subheadline: Paper Review
 title:  "Social Media in Crisis Management"
-teaser: "Social media and electronic communication has been a sirens call for computer and information scientists since 9/11. What has been attempted and how successful has it been?"
+teaser: "Social media and electronic communication has been a sirens call for computer and information scientists since 9-11. What has been attempted and how successful has it been?"
 breadcrumb: true
 tags:
     - social media, crisis informatics, needles in haystacks
@@ -18,7 +18,12 @@ image:
 As a new PhD student, I was introduced to the domain of <a href="https://tinyurl.com/crisisinformatics" target=_blank>Crisis Informatics</a> or the study of information communication technology use during disaster. As I learned more about the techniques and potential of this space, I found that much of the tension of computer science's future was contained within trying to make sense of posts on social media and other forms of internet-based communication. But there's so much more to do. 
 <!--more-->
 
-
+asdasdasda
+asd
+as
+da
+sd
+a
 
 
 ## Other Post Formats
