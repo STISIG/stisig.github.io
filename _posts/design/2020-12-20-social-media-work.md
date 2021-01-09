@@ -1,7 +1,6 @@
 ---
 layout: page
-sidebar: right
-subheadline: Paper Review
+subheadline: Paper Summary
 title:  "Social Media in Crisis Management"
 teaser: "Social media and electronic communication has been a sirens call for computer and information scientists since 9-11. What has been attempted and how successful has it been?"
 breadcrumb: true
