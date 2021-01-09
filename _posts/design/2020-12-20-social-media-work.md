@@ -1,20 +1,21 @@
 ---
 layout: page
+sidebar: right
+subheadline: Paper Summary
 title: "Social media in Crisis Management"
-subheadline: Paper Summary"
 teaser: "Social media and electronic communication has been a sirens call for computer and information scientists since 9-11."
 breadcrumb: true
-categories:
-    - crisisinformatics
-    - paperreview
 tags:
     - socialmedia 
     - crisisinformatics
     - needlesinhaystacks
-header:
-    title: Using social media data during crisis
-    image_fullwidth: /blog/20201220-smincrisis.png
-    caption: Published in the International Journal of Human–Computer Interaction Volume 34, 2018 - Issue 4: Social Media in Crisis Management
+categories:
+    - crisisinformatics
+    - paperreview
+image:
+    homepage: /blog/20201220-smincrisis.png
+    title: /blog/20201220-smincrisis.png
+    caption: Published in the International Journal of Human–Computer Interaction Volume 34, 2018 - Issue 4
     caption_url: https://www.tandfonline.com/doi/full/10.1080/10447318.2018.1427832
 ---
 <!--more-->
