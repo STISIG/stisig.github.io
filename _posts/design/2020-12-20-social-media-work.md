@@ -13,8 +13,7 @@ categories:
     - crisis informatics
     - paper review
 image:
-    thumb: /images/blog/20201220-smincrisis.png
-    title: /images/blog/20201220-smincrisis.png
+    title: blog/20201220-smincrisis.png
     caption: Published in the International Journal of Human–Computer Interaction Volume 34, 2018 - Issue 4: Social Media in Crisis Management
     caption_url: https://www.tandfonline.com/doi/full/10.1080/10447318.2018.1427832
 ---
