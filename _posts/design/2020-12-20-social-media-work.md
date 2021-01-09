@@ -6,9 +6,12 @@ title:  "Social Media in Crisis Management"
 teaser: "Social media and electronic communication has been a sirens call for computer and information scientists since 9-11. What has been attempted and how successful has it been?"
 breadcrumb: true
 tags:
-    - social media, crisis informatics, needles in haystacks
+    - social media 
+    - crisis informatics
+    - needles in haystacks
 categories:
     - crisis informatics
+    - paper review
 image:
     thumb: /images/blog/20201220-smincrisis.png
     title: /images/blog/20201220-smincrisis.png
