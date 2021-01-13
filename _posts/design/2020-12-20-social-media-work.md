@@ -31,5 +31,18 @@ This piece, from Christian Reuter and ‪Marc-André Kaufhold‬ at Technische U
 The approach this article provides is relatively straight forward. It starts by making the case that social media is increasingly important for "how people respond to and communicate around these
 world-wide disasters." It is important to note here that much of this work is typically ad hoc and driven by emergent groups. 
 
-This piece, 
+This piece points to the fact that almost all research in and around social media use during a response effort focuses on single cases. Floods, riots, wildfires, and other kinds of disasters have proven rich grounds for analysis of how social media was used by those who used it and could have been used by responders themselves. Almost all of this work is descriptive in nature, and this makes sense as the relative newness of social media made without emergency management's consultation means that all research into this phenomenon begins at 0, where no one knows anything. 
 
+Other types of research are on how to collect and process data and within those tools, how to build systems to deal with those data in real time. There are additionally various ways that social media have been considered in other studies. For example, could social media be used as an inter- and intra- agency tool of communication? Could social media be used as a tool through which agencies could coordinate with emergent groups, the public, and those on the ground?
+
+At the core of many of these studies are "ways things could be" or "how social media could be useful." Many of these studies, rather expectently, are seen with suspicion by those in EM practice. The article notes that, "Emergency managers are sometimes not convinced of the quality of citizen-generated content and social media....Still, they might trust in the quality of algorithms as an additional filtering layer, e.g., by offering a degree of customizability and transparency (white-box approach)."
+
+Ultimately, this piece offers a future of EM that is not only hyper-connected, but has infrastructure to support that connectivity. The authors state that, 
+
+<blockquote>
+"The increasing availability of high-bandwidth infrastructures promotes the integration of real-time information, e.g., via live streams. Given the limited resources in personnel and time on the one hand, and the increased HCI rate, referred to as high-bandwidth interaction in HCI, on the other hand, algorithms and customizable interfaces intend to support the processing of big social data.
+
+In the future, augmented reality and speech recognition as well as social bots, acting as autonomous technological entities, promise to support authorities in the structured dissemination, mediation, or retrieval of information."
+</blockquote>
+
+This piece is useful to think about what is currently being done to understand the hyper-connected world and how it might be integrated with EM as it stands now. However, it additionally offers an outsider's perspective through a fictional future that itself may be seen as a guide through which to plan, develop, and fund. As a result, this paper is worth your time if you're looking for work that seeks to help EM but may not be fully part of it.
