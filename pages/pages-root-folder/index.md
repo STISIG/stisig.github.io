@@ -21,7 +21,7 @@ widget3:
   title: "SIG Administration and Integration Philosophies"
   url: 'https://github.com/STISIG/Administration'
   image: widget-github-303x182.jpg
-  text: 'Since this is a SIG for the FEMA Higher Education Program, we meet regularly--typically on the first Thursday of each month. The minutes for these meetings will be located in our repository. In addition to those meeting notes, we will irregularly produce white papers and bits of philosophy about how to best advocate for more integrative progress in EM. This could include everything from how to broach the need for technology training to policy creation for social media use.'
+  text: 'Since this is a SIG for the Higher Education Program, we meet regularly--typically on the first Thursday of each month. The minutes for these meetings will be located in our repository. In addition to those meeting notes, we will irregularly produce white papers and bits of philosophy about how to best advocate for more integrative progress in EM. This could include everything from how to broach the need for technology training to policy creation for social media use.'
 #
 # Use the call for action to show a button on the frontpage
 #
